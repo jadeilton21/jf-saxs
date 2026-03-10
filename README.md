@@ -107,3 +107,6 @@ Se você gostou do projeto:
 ## 📚 Inspiração
 
 Projeto inspirado na necessidade de **ajudar estudantes de conservatório a escolherem seu primeiro saxofone** de forma mais clara e acessível.
+
+
+![Diagrama](./saxbarito.jpeg) 
