@@ -3,6 +3,7 @@
     padding:0;
     box-sizing: border-box;
     list-style: none;
+    font-family: "Poppins", sans-serif;
 
 }
 
@@ -104,6 +105,27 @@ section{
                     & h2{
                         font-size: 4em;
                         line-height: 1em;
+                    
+                    }
+                    & .descricao{
+
+                        color: #e0e09d;
+                        font-size: 12px;
+                        text-align: right;
+                        max-width: 400px    ;
+
+                    }
+
+                    & .information{
+                        border-radius: 30px;
+                        height: 35px;
+                        width: 120px;
+                        text-transform: uppercase;
+                        border: 2px solid #b1c312;
+                        background-color: #565b2e;
+                        color: #a91515;
+                        cursor:alias;
+                        font-weight: bold;
                     }
                 }
 
@@ -117,11 +139,6 @@ section{
         border-top: 1px solid #b1c312;
     }
  }
-
-
-
-}
-
 
 .arrows {
 
@@ -196,4 +213,9 @@ section{
 
         }
 }
+
+}
+
+
+
 
